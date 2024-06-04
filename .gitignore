@@ -1,0 +1,15 @@
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de build Maven
+target/
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Arquivos temporários
+*~
+
+# Arquivos
+*.log
+allure-results/
